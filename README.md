@@ -19,3 +19,9 @@ Data Tidak bisa disubmit saat salahsatunya kosong seperti berikut :
 Setelah disubmit maka hasilnya muncul di list seperti berikut ini :
 
 ![alt text](MyFriendApp/akhir.jpg)
+
+Terimakasih:)
+
+# Salsabilla Maurettasya A
+
+# 39 / XI RPL 3
