@@ -22,7 +22,7 @@ Setelah disubmit maka hasilnya muncul di list seperti berikut ini :
 
 ![alt text](MyFriendApp/akhir.jpg)
 
-Terimakasih:)
+Terimakasih:))
 
 # Salsabilla Maurettasya A
 
