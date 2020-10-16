@@ -1,5 +1,10 @@
 # MyFriendApp
 
+Pada aplikasi ini menerapkan : 
+
+> ### Fragment
+[Fragment](https://developer.android.com/guide/components/fragments?hl=id) mewakili perilaku atau bagian dari antarmuka pengguna dalam FragmentActivity. Anda bisa mengombinasikan beberapa fragmen dalam satu aktivitas untuk membangun UI multipanel dan menggunakan kembali sebuah fragmen dalam beberapa aktivitas. Anda bisa menganggap fragmen sebagai bagian modular dari aktivitas, yang memiliki daur hidup sendiri, menerima kejadian masukan sendiri, dan yang bisa Anda tambahkan atau hapus saat aktivitas berjalan (semacam "subaktivitas" yang bisa digunakan kembali dalam aktivitas berbeda).
+
 Hasil dari MyFriendApp :
 
 ![alt text](MyFriendApp/awal.jpg)
