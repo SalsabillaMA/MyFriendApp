@@ -6,6 +6,8 @@ Hasil dari MyFriendApp :
 
 > ### Mengisi Data :
 
+Mengisi data dilakukan dengan cara menekan button + yang berada pada pojok kanan bawah maka akan muncul form pengisian data
+
 Data Tidak bisa disubmit saat salahsatunya kosong seperti berikut :
 
 ![alt text](MyFriendApp/nama.jpg)
